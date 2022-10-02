@@ -1,0 +1,3 @@
+从零学习，下载python
+初步了解bot及API等
+继续摸索github
